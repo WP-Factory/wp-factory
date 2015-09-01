@@ -1,0 +1,5 @@
+.agignore
+.jshintrc
+.gitconfig
+.sass-cache
+node_modules
